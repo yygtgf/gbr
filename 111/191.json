@@ -44,7 +44,7 @@
      },
     {
       "key": "1",
-      "name": "12",
+      "name": "1",
       "type": 1,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -53,7 +53,7 @@
     },
     {
       "key":"1",
-      "name":"1图",
+      "name":"1",
       "type":0,
       "api":"https://www.baidu.com/",
       "searchable":0,
@@ -107,7 +107,7 @@
      {"key":"*奥卡源","name":"奥卡源","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*南国源","name":"南国源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*甜蜜","name":"🈴甜蜜","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*🈴91","name":"🈴91","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*🈴91麻豆","name":"🈴91麻豆","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*葡萄源","name":"葡萄源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"*雪豹源","name":"雪豹源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
     {"key":"麻豆","name":"麻豆","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
@@ -129,6 +129,7 @@
     {"key":"KK写真","name":"KK写真","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"老色逼","name":"老色逼","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"玉兔","name":"玉兔","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
+    {"key":"抖音","name":"抖音","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"麻豆","name":"麻豆","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"成人","name":"成人","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
     {"key":"甜蜜","name":"甜蜜","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
@@ -140,7 +141,7 @@
      {"key": "2","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
 
      {"key": "探探资源","name": "🔞探探资源","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
-     {"key": "91麻豆","name": "🔞天美","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
+     {"key": "91麻豆","name": "🔞天美","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
      {"key": "麻豆","name": "🔞麻豆","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
      {"key":"*速度资源","name":"🔞速度资源","type":0,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
      {"key": "花魁资源","name": "🔞花魁资源","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
@@ -179,10 +180,10 @@
       }
     },
 
-    {"key": "玉兔专场","name": "🚸玉兔采集","type": 1,"api": "https://www.baidu.com/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+    {"key": "玉兔专场","name": "🚸玉兔采集","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
 "精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P 3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
     
-    {"key": "大地专场","name": "🚸大地采集","type": 0,"api": "https://www.baidu.com/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+    {"key": "大地专场","name": "🚸大地采集","type": 0,"api": "https://dadiapi.com/api.php","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
 "日韩无码","强奸乱伦","欧美精品","国产精品","人妻系列","中文字幕","动漫精品","伦理影片","日韩精品","制服诱惑","自拍偷拍","AV明星","3P合辑","巨乳系列","颜射系列","口交视频","自慰系列","SM重味","教师学生","大秀视频","AV明星1"]},
     
     
@@ -289,7 +290,7 @@
     },
        {
       "key": "91md.me",
-      "name": "15",
+      "name": "🈶成人05",
       "type": 1,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -301,7 +302,7 @@
     },
     {
       "key": "cjmygzy.com",
-      "name": "16",
+      "name": "🈶成人06",
       "type": 0,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -313,7 +314,7 @@
     },
     {
       "key": "bttcj.com",
-      "name": "17",
+      "name": "🈶成人07",
       "type": 0,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -325,7 +326,7 @@
     },
     {
       "key": "api.sexnguon.com",
-      "name": "18",
+      "name": "🈶成人08",
       "type": 1,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -337,7 +338,7 @@
     },
         {
       "key": "feifei67.com",
-      "name": "19",
+      "name": "🈶成人09",
       "type": 1,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -349,7 +350,7 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "13",
+      "name": "🈶成人33",
       "type": 1,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -361,7 +362,7 @@
     },
     {
       "key": "pgxdy.com",
-      "name": "19",
+      "name": "🈶成人39",
       "type": 0,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -373,7 +374,7 @@
     },
     {
       "key": "msnii.com",
-      "name": "10",
+      "name": "🈶成人40",
       "type": 0,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -385,7 +386,7 @@
     },
     {
       "key": "kkzy.me",
-      "name": "15",
+      "name": "🈶成人45",
       "type": 1,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -397,7 +398,7 @@
     },
     {
       "key": "xrbsp.com",
-      "name": "16",
+      "name": "🈶成人46",
       "type": 0,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -409,7 +410,7 @@
     },
     {
       "key": "kxgav.com",
-      "name": "1",
+      "name": "🈶成人48",
       "type": 0,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -421,7 +422,7 @@
     },
       {
       "key": "gdlsp.com",
-      "name": "19",
+      "name": "🈶成人49",
       "type": 0,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -433,7 +434,7 @@
     },
     {
       "key": "sewozyapi.com",
-      "name": "10",
+      "name": "🈶成人50",
       "type": 1,
       "api": "https://www.baidu.com/",
       "searchable": 1,
@@ -445,7 +446,7 @@
     },
     {
       "key": "api.apilyzy.com",
-      "name": "1",
+      "name": "🈶成人52",
       "type": 1,
       "api": "https://www.baidu.com/",
       "searchable": 1,
