@@ -14,7 +14,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "看",
+  "warningText": "麻豆",
   "sites": [
 
 
@@ -22,9 +22,9 @@
 
     { 
     
-       "key": "福利资源", 
+       "key": "麻豆", 
       
-          "name": "看", 
+          "name": "麻豆", 
           
              "type": 3, 
              
@@ -38,7 +38,7 @@
       "key":"chengren",
        "name":"1",
         "type":1,
-        "api":"https://www.baidu.com/",
+        "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
         "searchable":1, 
         "quickSearch":1
      },
@@ -46,24 +46,24 @@
       "key": "1",
       "name": "12",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key":"1",
-      "name":"1图",
+      "name":"1",
       "type":0,
-      "api":"https://www.baidu.com/",
+      "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable":0,
       "quickSearch":0
     },
     {
-      "key": "葡萄",
+      "key": "1",
       "name": "1",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -77,87 +77,87 @@
      {"key": "3","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "4","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {
-       "key":"*草榴源",
-       "name":"🈴草榴源",
+       "key":"*1",
+       "name":"1",
        "type":0,
-       "api":"https://www.baidu.com/",
+       "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
      },
      {
        "key":"chunmei",
-       "name":"爱豆源",
+       "name":"1",
        "type":1,
-       "api":"https://www.baidu.com/",
+       "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
      },
      {
-       "key":"甜蜜源",
-       "name":"甜蜜源",
+       "key":"1",
+       "name":"1",
        "type":1,
-       "api":"https://www.baidu.com/",
+       "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
      },
-     {"key":"写真源","name":"写真源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":1},
-     {"key":"*奥卡源","name":"奥卡源","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*南国源","name":"南国源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*甜蜜","name":"🈴甜蜜","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*🈴91","name":"🈴91","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*葡萄源","name":"葡萄源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"*雪豹源","name":"雪豹源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
-    {"key":"麻豆","name":"麻豆","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
-    {"key":"丝袜源","name":"丝袜源","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"色逼","name":"色逼1","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"橘猫","name":"橘猫1","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"皇冠","name":"皇冠1","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"森林","name":"森林","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"乐播","name":"乐播","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"番号","name":"番号","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"小草","name":"小草","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"写真","name":"写真","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"乐播","name":"乐播","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"91麻豆","name":"91麻豆","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"奶香","name":"奶香","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"易看","name":"易看","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"皇冠","name":"皇冠","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"色南国","name":"色南国","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"KK写真","name":"KK写真","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"老色逼","name":"老色逼","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"玉兔","name":"玉兔","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"麻豆","name":"麻豆","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
-    {"key":"成人","name":"成人","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"甜蜜","name":"甜蜜","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"滴滴","name":"滴滴","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
-    {"key":"猫源传媒","name":"猫源传媒","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1},
+     {"key":"1","name":"1","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":1},
+     {"key":"*1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*1","name":"1","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*1","name":"1","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*1","name":"1","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*1","name":"1","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+    {"key":"*1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
+    {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
 
 
      {"key": "1","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "2","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
 
-     {"key": "探探资源","name": "🔞探探资源","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
-     {"key": "91麻豆","name": "🔞天美","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
-     {"key": "麻豆","name": "🔞麻豆","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
-     {"key":"*速度资源","name":"🔞速度资源","type":0,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
-     {"key": "花魁资源","name": "🔞花魁资源","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
-     {"key":"*乐播资源","name":"🔞乐播资源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
-     {"key": "KOK资源","name": "🔞KOK资源","type": 1,"api": "https://www.baidu.com/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
-     {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://www.baidu.com/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-     {"key":"*鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
-     {"key": "小草", "name": "🔞小草", "type": 1, "api": "https://www.baidu.com/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-     {"key":"*91视频","name":"🔞91视频","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
-     {"key":"*果","name":"🔞果","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
+     {"key": "1","name": "1","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
+     {"key": "1","name": "1","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
+     {"key": "1","name": "1","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
+     {"key":"*1","name":"1","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0},
+     {"key": "1","name": "1","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
+     {"key":"*1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0},
+     {"key": "1","name": "1","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
+     {"key": "1", "name": "1", "type": 1, "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+     {"key":"*1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0},
+     {"key": "1", "name": "1", "type": 1, "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+     {"key":"1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0},
+     {"key":"*1","name":"1","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0},
      
      {"key": "15","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "16","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
 
       {
-"key": "csp_xBPQ_超清",
-"name": "🚸香蕉超清",
+"key": "1",
+"name": "1",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -168,9 +168,9 @@
 
     {
       "key": "dadiapi.com",
-      "name": "🚸成人one",
+      "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -179,18 +179,18 @@
       }
     },
 
-    {"key": "玉兔专场","name": "🚸玉兔采集","type": 1,"api": "https://www.baidu.com/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+    {"key": "1","name": "1","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
 "精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P 3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
     
-    {"key": "大地专场","name": "🚸大地采集","type": 0,"api": "https://www.baidu.com/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
+    {"key": "1","name": "1","type": 0,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
 "日韩无码","强奸乱伦","欧美精品","国产精品","人妻系列","中文字幕","动漫精品","伦理影片","日韩精品","制服诱惑","自拍偷拍","AV明星","3P合辑","巨乳系列","颜射系列","口交视频","自慰系列","SM重味","教师学生","大秀视频","AV明星1"]},
     
     
         {
-            "key": "色猫",
-            "name": "🚸色猫采集",
+            "key": "1",
+            "name": "1",
             "type": 1,
-            "api": "https://www.baidu.com/",
+            "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -201,10 +201,10 @@
         },
 
         {
-            "key": "番外",
-            "name": "🚸番外采集",
+            "key": "1",
+            "name": "1",
             "type": 1,
-            "api": "https://www.baidu.com/",
+            "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1,
@@ -230,10 +230,10 @@
         },
 
         {
-            "key": "色窝资源",
-            "name": "🚸色窝资源",
+            "key": "1",
+            "name": "1",
             "type": 1,
-            "api": "https://www.baidu.com/",
+            "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 0,
@@ -265,10 +265,9 @@
      {"key": "17","name": "⇣⇣⇣⇣20230827⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "18","name": "⇣⇣⇣⇣20230827⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},        
     {
-      "key": "量子",
-      "name": "🈶量子伦理",
+      "key": "1"1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
@@ -276,10 +275,10 @@
       ]
     },
     {
-      "key": "dadiapi1.com",
-      "name": "🈶成人01",
+      "key": "1",
+      "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -288,10 +287,10 @@
       }
     },
        {
-      "key": "91md.me",
-      "name": "15",
+      "key": "1",
+      "name": "1",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -301,9 +300,9 @@
     },
     {
       "key": "cjmygzy.com",
-      "name": "16",
+      "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -313,9 +312,9 @@
     },
     {
       "key": "bttcj.com",
-      "name": "17",
+      "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -325,9 +324,9 @@
     },
     {
       "key": "api.sexnguon.com",
-      "name": "18",
+      "name": "1",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -337,9 +336,9 @@
     },
         {
       "key": "feifei67.com",
-      "name": "19",
+      "name": "1",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -349,9 +348,9 @@
     },
     {
       "key": "api.maozyapi.com",
-      "name": "13",
+      "name": "1",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -361,9 +360,9 @@
     },
     {
       "key": "pgxdy.com",
-      "name": "19",
+      "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -373,9 +372,9 @@
     },
     {
       "key": "msnii.com",
-      "name": "10",
+      "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -385,9 +384,9 @@
     },
     {
       "key": "kkzy.me",
-      "name": "15",
+      "name": "1",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -397,9 +396,9 @@
     },
     {
       "key": "xrbsp.com",
-      "name": "16",
+      "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -411,7 +410,7 @@
       "key": "kxgav.com",
       "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -421,9 +420,9 @@
     },
       {
       "key": "gdlsp.com",
-      "name": "19",
+      "name": "1",
       "type": 0,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -435,7 +434,7 @@
       "key": "sewozyapi.com",
       "name": "10",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -447,7 +446,7 @@
       "key": "api.apilyzy.com",
       "name": "1",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
       "searchable": 1,
       "recordable": 0,
       "style": {
@@ -456,7 +455,7 @@
       }
     },
 
-     {"key": "10","name": "免费","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0}
+     {"key": "10","name": "麻豆","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0}
     
     
   ],
