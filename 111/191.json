@@ -78,7 +78,7 @@
      {"key": "4","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {
        "key":"*草榴源",
-       "name":"🈴草榴源",
+       "name":"草榴源",
        "type":0,
        "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
        "searchable":1,
@@ -89,7 +89,7 @@
        "key":"chunmei",
        "name":"爱豆源",
        "type":1,
-       "api":"https://www.baidu.com/",
+       "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
@@ -98,7 +98,7 @@
        "key":"甜蜜源",
        "name":"甜蜜源",
        "type":1,
-       "api":"https://www.baidu.com/",
+       "api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
@@ -106,8 +106,8 @@
      {"key":"写真源","name":"写真源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"*奥卡源","name":"奥卡源","type":1,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*南国源","name":"南国源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*甜蜜","name":"🈴甜蜜","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
-     {"key":"*🈴91麻豆","name":"🈴91麻豆","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*甜蜜","name":"甜蜜","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
+     {"key":"*91麻豆","name":"91麻豆","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*葡萄源","name":"葡萄源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
     {"key":"*雪豹源","name":"雪豹源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
     {"key":"麻豆","name":"麻豆","type":1,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1},
