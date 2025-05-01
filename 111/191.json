@@ -103,7 +103,7 @@
        "quickSearch":1,
        "filterable":0
      },
-     {"key":"写真源","name":"写真源","type":0,"api":"www.baidu.com","searchable":1,"quickSearch":1,"filterable":1},
+     {"key":"写真源","name":"写真源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":1},
      {"key":"*奥卡源","name":"奥卡源","type":1,"api":"https://aosikazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*南国源","name":"南国源","type":0,"api":"https://www.baidu.com/","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"*甜蜜","name":"甜蜜","type":0,"api":"http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
