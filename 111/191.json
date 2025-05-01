@@ -38,7 +38,7 @@
       "key":"chengren",
        "name":"1",
         "type":1,
-        "api":"https://www.baidu.com/",
+        "api":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8",
         "searchable":1, 
         "quickSearch":1
      },
@@ -46,7 +46,7 @@
       "key": "1",
       "name": "1",
       "type": 1,
-      "api": "https://www.baidu.com/",
+      "api": "https://aosikazy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
