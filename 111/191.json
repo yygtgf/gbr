@@ -89,7 +89,7 @@
        "key":"chunmei",
        "name":"爱豆源",
        "type":1,
-       "api":"http://chujia.cc/api.php/provide/vod/from/m3u8",
+       "api":"http://www.51155.cc/api.php/provide/vod/from/m3u8",
        "searchable":1,
        "quickSearch":1,
        "filterable":0
@@ -141,7 +141,7 @@
      {"key": "2","name": "-----福利分割线-----","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
 
      {"key": "探探资源","name": "🔞探探资源","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
-     {"key": "🔞天美","name": "🔞天美","type": 1,"api": "https://www.bt4.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
+     {"key": "天美","name": "天美","type": 1,"api": "https://www.bt4.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
      {"key": "🔞麻豆","name": "🔞麻豆","type": 1,"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/","searchable": 0,"quickSearch": 0},
      {"key":"*速度资源","name":"🔞速度资源","type":0,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
      {"key": "花魁资源","name": "🔞花魁资源","type": 1,"api": "https://www.baidu.com/","searchable": 0,"quickSearch": 0},
@@ -151,7 +151,7 @@
      {"key":"*鲨鱼资源","name":"🔞鲨鱼资源","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
      {"key": "小草", "name": "🔞小草", "type": 1, "api": "https://www.baidu.com/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
      {"key":"*91视频","name":"🔞91视频","type":1,"api":"https://www.bt4.cc/api.php/provide/vod/from/mdm3u8/","searchable":0,"quickSearch":0},
-     {"key":"*果","name":"🔞果","type":1,"api":"https://www.baidu.com/","searchable":0,"quickSearch":0},
+     {"key":"*果","name":"🔞果","type":1,"api":"http://www.51155.cc/api.php/provide/vod/from/m3u8","searchable":0,"quickSearch":0},
      
      {"key": "15","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
      {"key": "16","name": "⇣⇣⇣⇣20230817⇣⇣⇣⇣","api": "1","type": 3,"filterable": 0,"quickSearch": 0,"searchable": 0},
